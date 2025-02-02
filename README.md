@@ -2,5 +2,5 @@
 
 Solver for Linkedin's Queens Game
 
-// Table recognition
-// Solver
+1. Table recognition
+2. Solver
